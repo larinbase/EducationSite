@@ -1,0 +1,37 @@
+.plates{
+    display: inline-block;
+    position: relative;
+    object-fit: cover;
+    height: 310px;
+}
+.plates-image {
+    display: block;
+
+}
+.plates-firstoverlay{
+    position: absolute;
+    top: 150px;
+    right: 460px;
+
+    width: 23%;
+    height: 100%;
+    background-color: rgb(34, 255, 0);
+}
+.plates-secondoverlay{
+    position: absolute;
+    top: 490px;
+    right: 765px;
+
+    width: 23%;
+    height: 100%;
+    background-color: rgb(60, 0, 255);
+}
+.plates-thirdoverlay{
+    position: absolute;
+    top: 490px;
+    left: 755px;
+
+    width: 23%;
+    height: 100%;
+    background-color: rgb(255, 0, 0);
+}

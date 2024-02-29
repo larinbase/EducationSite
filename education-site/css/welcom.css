@@ -1,0 +1,48 @@
+.image-block{
+    display: inline-block;
+    position: relative;
+    object-fit: cover;
+    height: 200px;
+}
+.image-block-picture {
+    display: block;
+}
+
+.image-block-overlay{
+    position: absolute;
+    top: 380px;
+    right: 485px;
+    width: 360px;
+    height: 260px;
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+}
+
+.image-block-title{
+    font-size: 20px;
+    color: #000000;
+    margin-bottom: 0;
+    text-align: left;
+}
+
+.image-block-description{
+    font-size: 40px;
+    color: #000000;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.image-block-overlay p{
+    font-size: 15px;
+    color: #000000;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.image-block-overlay p a{
+    font-size: 15px;
+    color: #000000;
+    margin-bottom: 20px;
+    text-align: left;
+
+}

@@ -1,0 +1,46 @@
+.info{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000000;
+    text-align: center;
+}
+
+.info-title{
+    font-size: 30px;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+.info-block{
+    padding: 20px;
+}
+
+.info-block-text{
+    font-size: 20px;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+.info-button-button{
+    padding: 10px 20px;
+    font-size: 20px;
+    color: #fff;
+    background: #ab4ec7;
+    border: none;
+    border-radius: 40px;
+    cursor: pointer;
+    transition: 0.3s;
+    font-weight: 700;
+    height: 55px;
+    width: 250px;
+/*    эффект затемнения при наведение*/
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}

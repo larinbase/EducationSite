@@ -1,0 +1,18 @@
+.dark-image-block{
+    display: inline-block;
+    position: relative;
+    object-fit: cover;
+    height: 440px;
+}
+.dark-image-block-picture {
+    display: block;
+
+}
+.dark-image-block-overlay{
+    position: absolute;
+    top: 327px;
+    right: 495px;
+    width: 48%;
+    height: 100%;
+    background-color: rgb(34, 255, 0);
+}
