@@ -15,7 +15,7 @@
 
     width: 23%;
     height: 100%;
-    background-color: rgb(34, 255, 0);
+    background-color: rgb(255, 255, 255);
 }
 .plates-secondoverlay{
     position: absolute;
@@ -24,7 +24,7 @@
 
     width: 23%;
     height: 100%;
-    background-color: rgb(60, 0, 255);
+    background-color: rgb(255, 255, 255);
 }
 .plates-thirdoverlay{
     position: absolute;
@@ -33,5 +33,61 @@
 
     width: 23%;
     height: 100%;
-    background-color: rgb(255, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+
+.plates-overlay-title{
+    font-size: 35px;
+    color: #000000;
+    margin-bottom: 0;
+    text-align: left;
+}
+
+.plates-overlay-description{
+    font-size: 20px;
+    color: #000000;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.plates-firstoverlay p{
+    font-size: 15px;
+    color: #000000;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.plates-firstoverlay p a{
+    font-size: 15px;
+    color: #000000;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.plates-secondoverlay p{
+    font-size: 15px;
+    color: #000000;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.plates-secondoverlay p a{
+    font-size: 15px;
+    color: #000000;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.plates-thirdoverlay p{
+    font-size: 15px;
+    color: #000000;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.plates-thirdoverlay p a{
+    font-size: 15px;
+    color: #000000;
+    margin-bottom: 20px;
+    text-align: left;
 }

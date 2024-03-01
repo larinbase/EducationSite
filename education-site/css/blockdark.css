@@ -8,11 +8,26 @@
     display: block;
 
 }
+
+.dark-image-block-title{
+    font-size: 40px;
+    color: #000000;
+    margin-bottom: 0;
+    text-align: left;
+}
+
+.dark-image-block-description{
+    font-size: 50px;
+    color: #000000;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
 .dark-image-block-overlay{
     position: absolute;
     top: 327px;
     right: 495px;
     width: 48%;
     height: 100%;
-    background-color: rgb(34, 255, 0);
+    background-color: rgb(255, 255, 255);
 }

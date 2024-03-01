@@ -3,7 +3,9 @@
     position: relative;
     object-fit: cover;
     height: 200px;
+    margin-bottom: 600px;
 }
+
 .image-block-picture {
     display: block;
 }
