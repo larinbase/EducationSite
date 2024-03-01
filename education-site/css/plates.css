@@ -3,6 +3,8 @@
     position: relative;
     object-fit: cover;
     height: 310px;
+    margin-left: 5%;
+    margin-right: 10%;
 }
 .plates-image {
     display: block;

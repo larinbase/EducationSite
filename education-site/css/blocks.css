@@ -10,6 +10,11 @@
     border-radius: 40px;
 }
 
+.containers {
+    margin-left: 15%;
+    margin-right: 10%;
+}
+
 .container2 {
     width: 300px; /* Устанавливаем ширину каждой ячейки */
     height: 300px;
